@@ -1,0 +1,12 @@
+{
+	"id": "B站拈花赛博行-自动生成文件夹插件",
+	"name": "B站拈花赛博行-自动生成文件夹插件",
+	"version": "1.0.0",
+  	"main": "main.js",
+	"minAppVersion": "0.15.0",
+	"description": "自动生成文件夹或者MD文件",
+	"author": "B站UP主-拈花赛博行",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
