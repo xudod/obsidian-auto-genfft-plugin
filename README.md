@@ -17,3 +17,11 @@
 无扩展名视为文件夹
 
 空行自动忽略
+
+## 可从百度获取插件文件
+通过网盘分享的文件：obsidian-auto-genfft-plugin.rar
+
+链接: https://pan.baidu.com/s/11oA-LnX_R3uJa4KDj8CoRg?pwd=f8kt 提取码: f8kt 
+
+### 也可访问github获取源码
+https://github.com/xudod/obsidian-auto-genfft-plugin
